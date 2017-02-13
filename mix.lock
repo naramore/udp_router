@@ -1,0 +1,3 @@
+%{"expcap": {:hex, :expcap, "0.1.0", "b6ecc637c2e8a11b4cb3752cf9629fca7780e2168ce8bbbb1b190ab054929ade", [:mix], [{:timex, "~> 0.13.2", [hex: :timex, optional: false]}]},
+  "poolboy": {:hex, :poolboy, "1.5.1", "6b46163901cfd0a1b43d692657ed9d7e599853b3b21b95ae5ae0a777cf9b6ca8", [:rebar], []},
+  "timex": {:hex, :timex, "0.13.5", "54c015e379ccf4c145761f85b9895e9d500848135b84356d0e8d9ef7f4f6e980", [:mix], []}}
